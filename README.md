@@ -7,5 +7,6 @@ Here is a growing collection of resources and helpful command to know when worki
 ## Git Commands
 - [git config](./commands/Config.md)
 - [git init](./commands/Init.md)
-
-
+- [git add](./commands/Add.md)
+- [git commit](./commands/Commit.md)
+- [git remote](./commands/Remote.md)
